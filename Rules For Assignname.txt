@@ -1,0 +1,11 @@
+className = Uppercase camel case
+variableName = lowercase camel case
+paramerte pass = lowercase camel case
+functionName = lowercase camel case
+classpropertyName = Uppercase camel case
+
+
+HTML
+
+className = lowercase
+idname = as per require
