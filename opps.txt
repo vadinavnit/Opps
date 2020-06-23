@@ -1,0 +1,55 @@
+1) array
+
+ var myarray = ['navnit', 'jay', '1'];
+
+2) javascript object
+
+var person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+
+3) json object
+
+myObj = { "name":"John", "age":30, "car":null };
+
+
+------ JSON.parse() ---------
+
+A common use of JSON is to exchange data to/from a web server.
+
+When receiving data from a web server, the data is always a string.
+
+Parse the data with JSON.parse(), and the data becomes a JavaScript object.
+
+
+
+------- JSON.stringify() -------
+
+
+A common use of JSON is to exchange data to/from a web server.
+
+When sending data to a web server, the data has to be a string.
+
+Convert a JavaScript object into a string with JSON.stringify().
+
+
+------- list of json object --------
+
+
+[
+	{ "name":"John", 
+	  "age":30, 
+          "car":null 
+	},
+	{ "name":"John", 
+	  "age":30, 
+          "car":null 
+	},
+	{ "name":"John", 
+	  "age":30, 
+          "car":null 
+	},	
+	
+]
+
+[] = array
+
+{} = object
